@@ -31,7 +31,6 @@ PRODUCT_PACKAGES := \
     Exchange \
     LatinIME \
     Launcher2 \
-    Music \
     Phone \
     Settings \
     Sync \

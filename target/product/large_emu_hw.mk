@@ -33,7 +33,6 @@ PRODUCT_PACKAGES := \
     Exchange \
     LatinIME \
     Launcher2 \
-    Music \
     Settings \
     Sync \
     Updater \
